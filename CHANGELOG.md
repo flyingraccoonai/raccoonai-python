@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.7 (2025-02-22)
+
+Full Changelog: [v0.1.0-alpha.6...v0.1.0-alpha.7](https://github.com/raccoonaihq/raccoonai-python/compare/v0.1.0-alpha.6...v0.1.0-alpha.7)
+
+### Chores
+
+* **internal:** fix devcontainers setup ([#27](https://github.com/raccoonaihq/raccoonai-python/issues/27)) ([8b3178e](https://github.com/raccoonaihq/raccoonai-python/commit/8b3178e30fe72e1326eb46c49891b668a15db3ca))
+
 ## 0.1.0-alpha.6 (2025-02-21)
 
 Full Changelog: [v0.1.0-alpha.5...v0.1.0-alpha.6](https://github.com/raccoonaihq/raccoonai-python/compare/v0.1.0-alpha.5...v0.1.0-alpha.6)
